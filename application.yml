@@ -6,4 +6,4 @@ info:
 eureka:
   client:
     serviceUrl:
-      defaultZone: https://eureka-dstashek.cfapps.io/eureka
+      defaultZone: https://Dstashek:Snoopy123@eureka-dstashek.cfapps.io/eureka
