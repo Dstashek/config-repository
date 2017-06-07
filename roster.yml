@@ -6,5 +6,5 @@ message: dan
 
 eureka:
   instance:
-    hostname: https://roster-dstashek.cfapps.io
+    hostname: roster-dstashek.cfapps.io
     nonSecurePort: 80
