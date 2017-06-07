@@ -3,3 +3,8 @@ spring:
   profiles: cloud
 
 message: dan
+
+eureka:
+  instance:
+    hostname: https://company-dstashek.cfapps.io/
+    nonSecurePort: 80

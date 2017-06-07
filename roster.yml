@@ -1,2 +1,7 @@
 message:
   name: daniel
+  
+eureka:
+  instance:
+    hostname: https://roster-dstashek.cfapps.io/
+    nonSecurePort: 80
