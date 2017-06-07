@@ -1,6 +1,9 @@
-message:
-  name: daniel
-  
+---
+spring:
+  profiles: cloud
+
+message: dan
+
 eureka:
   instance:
     hostname: https://roster-dstashek.cfapps.io/
