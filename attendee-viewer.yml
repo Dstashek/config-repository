@@ -1,0 +1,14 @@
+---
+spring:
+  profiles: cloud
+
+message: dan
+
+eureka:
+  instance:
+    hostname: attendee-viewer-dstashek.cfapps.io
+    nonSecurePort: 80
+    
+feign:
+  hystrix:
+    enabled: true
